@@ -9,8 +9,8 @@ public class A {
 
     static class C {
         void mehtod() {
-            field1 = 10;
-            method1();
+//            field1 = 10;
+//            method1();
 
             field2 = 10;
             method2();
