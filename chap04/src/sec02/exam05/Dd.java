@@ -13,6 +13,7 @@ public class Dd {
                 System.out.println("숫자로 변환할 수 없음");
             } finally {
                 System.out.println(value);
+                System.out.println("테스트");
             }
         }
     }
