@@ -1,4 +1,4 @@
-package exam06;
+package sec01.exam06;
 
 import java.util.HashMap;
 import java.util.Iterator;

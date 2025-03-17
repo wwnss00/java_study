@@ -1,4 +1,4 @@
-package exam03;
+package sec01.exam03;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

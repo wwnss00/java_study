@@ -1,4 +1,4 @@
-package exam02;
+package sec01.exam02;
 
 import java.util.List;
 import java.util.Vector;

@@ -1,4 +1,4 @@
-package exam05;
+package sec01.exam05;
 
 import java.util.HashSet;
 import java.util.Set;

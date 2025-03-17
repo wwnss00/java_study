@@ -1,4 +1,4 @@
-package exam08;
+package sec01.exam08;
 
 import java.util.Hashtable;
 import java.util.Map;
