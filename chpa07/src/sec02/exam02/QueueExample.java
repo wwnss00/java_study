@@ -10,7 +10,7 @@ public class QueueExample {
         messageQueue.offer(new Message("sendMail","홍길동"));
         messageQueue.offer(new Message("sendSMS","신용권"));
         messageQueue.offer(new Message("sendKakaotalk","홍두깨"));
-        
+
 
         while (!messageQueue.isEmpty()) {
             Message message = messageQueue.poll();
