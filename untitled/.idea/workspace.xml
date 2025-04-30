@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3ad009d-8497-4f62-8627-2b23dfd014ed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/chap01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/ex1/SnowTire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/ex1/SnowTireExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/ex1/Tire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/exam03/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/exam03/CarExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/exam03/HankookTire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/exam03/KumhoTire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/exam03/Tire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/exam04/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/exam04/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/exam04/DriverExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/exam04/Taxi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/exam04/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/exam05/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/exam05/ChildExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec02/exam05/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec03/exam01/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec03/exam01/PhoneExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec03/exam01/SmartPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec03/exam02/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec03/exam02/AnimalExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec03/exam02/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/src/sec03/exam02/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/chap02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec01/ex01/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec01/ex01/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec01/ex01/Soundable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec01/ex01/SoundableExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec01/exam02/Audio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec01/exam02/RemoteControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec01/exam02/RemoteControlExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec01/exam02/Television.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec01/exam03/Searchable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec01/exam03/SmartExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec01/exam03/SmartTelevision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/ex01/DaoExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/ex01/DataAccessObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/ex01/MySqlDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/ex01/OracleDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam01/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam01/CarExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam01/HankookTire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam01/KumhoTire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam01/Tire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam02/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam02/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam02/DriverExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam02/Taxi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam02/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam03/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam03/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam03/VehicleExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam04/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam04/DriverExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam04/Taxi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam05/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam05/ImplementationC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam05/InterfaceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam05/InterfaceB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/src/sec02/exam05/InterfaceC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/chap04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/src/sec01/exam01/NullPointerExceptionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/src/sec01/exam02/ArrayIndexOutOfBoundsExceptionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/src/sec01/exam03/ArrayIndexOutOfBoundsExceptionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/src/sec01/exam04/NumberFormatExceptionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/src/sec01/exam05/ClassCastExceptionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/src/sec02/exam01/TryCatchinallyExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/src/sec02/exam02/TryCatchFinallyRuntimeExceptionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/src/sec02/exam03/CatchByExceptionKindExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/src/sec02/exam04/CatchOrderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/src/sec02/exam05/Dd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/src/sec02/exam05/ThrowsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/chap05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam01/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam01/MemberExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam02/Key.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam02/KeyExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam03/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam04/ToStringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam05/SmartPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam05/SmartPhoneExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam06/ExitExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam07/SystemTimeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam08/ByteToStringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam09/KeyboardToStringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam10/StringCharAtExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam11/StringEqualsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam12/StringGetBytesExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam13/StringIndexOfExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam14/StringLengthExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam15/StringReplaceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam16/StringSubstringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam17/StringToLowerUpperCaseExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam18/StringTrimExmaple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam19/StringValueOfExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam20/BoxingUnBoxingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam21/AutoBoxingUnBoxingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam22/StringToPrimitiveValueExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam23/MathExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/exam24/MathRandomExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/verify/exam01/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/verify/exam01/StudentExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/verify/exam02/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/verify/exam02/MemberExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/verify/exam03/BytesToStringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/verify/exam04/FindAndReplaceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec01/verify/exam05/StringConvertExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/sec02/exam01/DateExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/chap06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/exam01/BeepPrintExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/exam02/BeepPrintExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/exam02/BeepTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/exam03/BeepPrintExample3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/exam04/BeepPrintExample4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/exam04/BeepThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/exam05/ThreadA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/exam05/ThreadB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/exam05/ThreadNameExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/exam06/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/exam06/MainThreadExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/exam06/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/exam06/User1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/exam06/User2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/verify/exam01/MovieThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/verify/exam01/MusicRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec01/verify/exam01/ThreadExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec02/exam01/SleepExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec02/exam02/PrintThread1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec02/exam02/StopExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec02/exam03/InterruptExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec02/exam03/PrintThread2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec02/exam04/PrintThread2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec02/exam05/AutoSaveThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec02/exam05/DaemonExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec02/verify/exam03/MovieThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec02/verify/exam03/ThreadExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec02/verify/exam04/MovieThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec02/verify/exam04/ThreadExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/chap08.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec01/exam01/WriteExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec01/exam02/WriteExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec01/exam03/WriteExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec01/exam04/ReadExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec01/exam05/ReadExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec01/exam06/ReadExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec01/exam07/WriteExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec01/exam08/WriteExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec01/exam09/WriteExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec01/exam10/WriteExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec01/exam11/ReadExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec01/exam12/ReadExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec01/exam13/ReadExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec02/exam01/CharacterConverStreamExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec02/exam02/NonBufferVsBufferExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec02/exam03/PrintStreamExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec02/exam04/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec02/exam04/ObjectStreamExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec02/verify/exam01/AddLineNumberExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec03/exam01/GetLineStringFromKeyboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec03/exam02/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec03/exam02/ProductStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/src/sec03/exam02/ProductStorageExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09/chap09.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09/src/sec01/exam01/VarExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09/src/sec01/exam02/TextBlockExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09/src/sec01/exam03/SwitchExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09/src/sec01/exam03/SwitchExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap12/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/chpa03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/exam01/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/exam01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/exam02/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/exam03/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/exam04/Outter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/exam05/Outter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/exam05/OutterExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/exam06/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/exam06/ButtonExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/exam06/CallListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/exam06/MessageListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/verify/exam03/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/verify/exam03/NestedClassExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/verify/exam04/Chatting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/verify/exam05/BackgroundChangeListner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/verify/exam05/CheckBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec01/verify/exam05/CheckBoxExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/exam01/Anonymous.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/exam01/AnonymousExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/exam01/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/exam02/Anonymous.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/exam02/AnonymousExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/exam02/RemoteControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/exam03/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/exam03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/exam03/Window.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/exam04/Anonymous.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/exam04/AnonymousExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/exam04/Calculatable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/verify/exam01/Anonymous.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/verify/exam01/AnonymousExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/verify/exam01/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/verify/exam02/Anonymous.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/verify/exam02/AnonymousExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/verify/exam02/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/verify/exam03/CheckBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa03/src/sec02/verify/exam03/CheckBoxExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/chpa07.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/exam01/ArrayListExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/exam02/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/exam02/VectorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/exam03/LinkedListExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/exam04/HashSetExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/exam05/HashSetExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/exam05/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/exam06/HashMapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/exam07/HashMapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/exam07/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/exam08/HashTableExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/verify/exam01/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/verify/exam01/BoardDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/verify/exam01/ListExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/verify/exam02/HashSetExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/verify/exam02/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec01/verify/exam03/MapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec02/exam01/Coin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec02/exam01/StackExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec02/exam02/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chpa07/src/sec02/exam02/QueueExample.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2wLhZYzrNFBlIEFOcQiPmRVwN50" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Driver.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Class/java_study/spring_01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3ad009d-8497-4f62-8627-2b23dfd014ed" name="Changes" comment="" />
+      <created>1745826818899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745826818899</updated>
+      <workItem from="1745826819362" duration="7678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
